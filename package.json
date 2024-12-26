@@ -16,9 +16,12 @@
   },
   "license": "ISC",
   "author": "Kassim Zaid",
-  "type": "commonjs",
+  "type": "module",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
   }
 }
