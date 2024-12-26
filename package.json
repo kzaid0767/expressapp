@@ -1,0 +1,24 @@
+{
+  "name": "expresapp",
+  "version": "1.0.0",
+  "description": "first express app",
+  "keywords": [
+    "expressjs",
+    "nodejs"
+  ],
+  "homepage": "https://github.com/kzaid0767/expressapp#readme",
+  "bugs": {
+    "url": "https://github.com/kzaid0767/expressapp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kzaid0767/expressapp.git"
+  },
+  "license": "ISC",
+  "author": "Kassim Zaid",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
